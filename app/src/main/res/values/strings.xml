@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Submission Jetpack Compose</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="home_menu">Home</string>
+    <string name="about_page">About</string>
 </resources>
